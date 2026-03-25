@@ -1,0 +1,97 @@
+.horario {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.horario th, .horario td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.horario thead {
+  background-color: #2c3e50;
+  color: white;
+}
+
+.recreo {
+  font-weight: bold;
+}
+.BBDD {
+background-color: #0096FF;
+}
+
+.PROG {
+background-color: #5D3FD3;
+}
+
+.EdD {
+background-color: #FFBF00;
+}
+
+.LdM {
+background-color: #FFFF8F;
+}
+
+.fol {
+background-color: #097969;
+}
+
+.SI {
+background-color: #AAFF00;
+}
+
+.PI {
+background-color: #CC5500;
+}
+
+.IG {
+background-color: #CF9FFF;
+}
+
+.header {
+  display: flex;
+ /*align-items: center;
+  justify-content: center; */
+  gap: 10px;
+  padding: 10px;
+  background-color: #f5f5f5;
+}
+
+.logoGeneralitat {
+
+}
+@media (min-width: 768px) {
+.menu {
+  border-top: 1px solid #000;
+  background-color: #dcdcdc;
+}
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.menu li {
+  position: relative;
+}
+
+.menu > ul > li {
+  border-right: 1px solid #c0c0c0;
+}
+
+.menu a {
+  display: block;
+  padding: 15px 20px;
+  text-decoration: none;
+  color: #000;
+  font-size: 14px;
+}
+
+.menu a:hover {
+  background-color: #cfcfcf;
+}
