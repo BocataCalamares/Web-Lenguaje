@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="vista.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IES El Caminás</title>
+</head>
+<body>
+<header class="header">
+    <div>
+        <img class="logoGeneralitat" src="recursos/generalitat-valenciana.png" style="width:300px;height:97px;" alt="Generalitat Valenciana">
+    </div>
+    <div>
+        <img class="logoCentro" src="recursos/logo_no_bg.png" alt="Logo IES El Caminás">
+    </div>
+</header>
+
+<nav class="menu">
+    <ul>
+        <li class="dropdown">
+            <a href="indexOLD.html">Inicio</a>
+        </li>
+        <li class="dropdown">
+            <a href="estudios.html">Oferta Educativa</a>
+        </li>
+        <li class="dropdown">
+            <a href="contacto.html">Contacto</a>
+        </li>
+    </ul>
+</nav>
+
+<main class="main">
+    <div class="noticias-header">
+        <h2>Últimas Noticias</h2>
+        <button id="btn-destacar" class="btn-destacar">Destacar noticias importantes</button>
+    </div>
+
+    <div id="contenedor-noticias" class="contenedor-noticias">
+        <!-- Las noticias se cargarán dinámicamente aquí -->
+    </div>
+
+    <div class="imgMain">
+        <video autoplay muted loop playsinline poster="recursos/iescaminas-48-100.jpg">
+            <source src="recursos/video.mp4" type="video/mp4">
+            Tu navegador no soporta videos HTML5.
+        </video>
+    </div>
+</main>
+
+<footer class="footerMain">
+    © 2026 Jonathan Rosa :D. Todos los derechos reservados.
+</footer>
+
+<!-- Cargar script como módulo -->
+<script type="module" src="app.js"></script>
+</body>
+</html>

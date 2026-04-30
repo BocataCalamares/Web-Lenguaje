@@ -1,0 +1,20 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": " PRUEBAS HOMOLOGADAS DE IDIOMAS",
+      "fecha": "2027-04-27",
+      "contenido": " Convocatoria de las pruebas homologadas A2 – Curso 2025/2026. La Conselleria de Educación, Cultura y Universidades ha publicado la Resolución de 17 de diciembre de 2025 por la que se convocan las pruebas homologadas del nivel A2 del Marco Común Europeo de Referencia para las Lenguas (MCER) para el curso 2025/2026..Alemán: 27 de abril de 2026, a las 11:00 h<br>\nInglés: 28 de abril de 2026, a las 11:00 h\nFrancés: 29 de abril de 2026, a las 11:00 h\nItaliano: 30 de abril de 2026, a las 11:00 h\n",
+      "categoria": "Prueba",
+      "importante": true
+    },
+    {
+      "id": 2,
+      "titulo": "MATRÍCULA PRUEBAS LIBRES",
+      "fecha": "2027-02-19",
+      "contenido": "– Documentación requerida:<br>\n            * Foto de DNI, NIE, visado de estudios o pasaporte.<br>\n            * Inscripción a pruebas (Anexo II)<br>\n            * Certificación académica oficial acreditativa de reunir alguno de los requisitos de acceso a Formación Profesional para el grado medio o superior, según corresponda.<br>\n            * Declaración responsable de no estar matriculado durante el curso 2025-2026 en los módulos profesionales a los que se presenta y, simultáneamente, en las pruebas convocadas por esta o cualquier otra administración educativa que tienen como objeto la obtención del mismo título en formato pdf. (Anexo IX de la convocatoria).<br>\n            * Justificante del pago de las tasas correspondientes. (modelo 046) Enlace en Artículo Cuarto. 4 de la convocatoria. enlace: https://ceice.gva.es/doc046/gen/es/tasas.asp?idf=PRUEBAS<br>\n            * Las personas con una diversidad funcional que impida realizar las pruebas con los medios ordinarios, manifestarán esta circunstancia en el momento de la inscripción y adjuntarán a la solicitud la documentación expedida por el organismo competente que certifique esta diversidad funcional.<br>.",
+      "categoria": "Matriculas",
+      "importante": false
+    }
+  ]
+}
